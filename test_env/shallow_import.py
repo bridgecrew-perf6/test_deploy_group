@@ -1,4 +1,4 @@
-class TestClass:
+class ShallowClass:
 
     def __call__(self):
-        return "Hello world!"
+        return "Hello shallow world!"
